@@ -16,7 +16,7 @@
 					<a href="index.php">Accueil</a>
 				</li>
 				<li>
-					<a href="experiences.php">Expérience de Maman et Papa</a>
+					<a href="experiences.php">Expériences de Maman et Papa</a>
 					
 				</li>
 				<li>
