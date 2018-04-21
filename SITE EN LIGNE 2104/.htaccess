@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^http://www.bebetoutbeau.epizy.com [NC]
+RewriteRule  ^(.*)$ http://bebetoutbeau.epizy.com [R=301, L]
