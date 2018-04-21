@@ -1,0 +1,61 @@
+body{
+	font-family: Tahoma;
+
+}
+
+
+p{
+	margin:30px;
+	
+}	
+h1{
+	margin:30px;
+	
+}
+header{
+	background-color: #feddd6;
+	text-align:center;
+	padding:10px;
+	font-size:30px;
+	font-family: Tahoma;
+	font-weight:normal;
+	vertical-align: center;
+}
+
+footer{
+	background-color: #feddd6;
+	text-align:center;
+	vertical-align: center;
+	padding:10px;
+	font-size:15px;
+	font-family: Tahoma;
+	font-weight:10px;
+}
+
+nav {
+	height:auto;
+	width:100%;
+	color:yellow;
+}
+
+
+nav li{
+	list-style-type:none;
+	float:center;
+	text-align:center;
+	display:inline-block;
+	text-decoration:none;
+	width:20%;
+	padding:10px;
+	margin: 4px;
+	border-bottom: 2px solid #e3d7db;
+	overflow:auto;
+
+}
+
+
+nav li a{
+	display:block;
+	text-decoration:none;
+}
+

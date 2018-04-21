@@ -1,5 +1,5 @@
 <?php 
-		include('includes/header.php')
+		include('header.php')
 ?>
 		<a href="articleValise.php" target="_blank">Bébé arrive! : Préparer la valise et le séjour à la maternité</a></br>
 		<p> Nous avons préparé la valise pour le séjour de maternité pendant des semaines, pour au final l'oublier
@@ -15,6 +15,6 @@
 		</p>
 		<br/><br/><br/><br/>
 <?php 
-		include('includes/footer.php');
+		include('footer.php');
 
 ?>
