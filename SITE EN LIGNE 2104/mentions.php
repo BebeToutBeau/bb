@@ -9,10 +9,7 @@
 		en vigueur et aux recommandations de la Commission nationale de 
 		l’informatique et des libertés (CNIL).
 		</p>
-		
-		<h3> Réalisation éditoriale et Webmaster </h3>
-		<p> Achraf OUBRAHIM	</p>
-		
+				
 		<h3> Hébergement </h3>
 		<p> Infinityfree.com	</p>
 <?php 

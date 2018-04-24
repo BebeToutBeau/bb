@@ -8,7 +8,7 @@
   </head>
   <body>
 	  <header>
-		<h1> Bébé Tout Beau </h1>
+		<h1> <img src="baby.jpg" width="50" height="45" alt="photo bébé"> Bébé Tout Beau </h1>
 	  </header>
 	  <nav>
 		<div class="table">

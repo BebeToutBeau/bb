@@ -4,11 +4,13 @@
 	  <title> Bébé Tout Beau </title>
 	  <meta charset="utf-8">
 	  <meta name="description" content="Le site des Jeunes Parents">
+	  <meta name="google-site-verification" content="SNfhmUjSvb1U1WjyVJ1lJs5pI3Rzcltek5yozcVArmo" />
+	  <img src="baby.jpg" width="60" height="60" alt="photo bébé"> 
 	  <link rel="stylesheet" href="style.css">
   </head>
   <body>
 	  <header>
-		<h1> Bébé Tout Beau </h1>
+		<h1> <img src="baby.jpg" width="50" height="45" alt="photo bébé"> Bébé Tout Beau </h1>
 	  </header>
 	  <nav>
 		<div class="table">
@@ -40,9 +42,11 @@
 		et j'ai moi même été confronté aux nombreuses questions que l'on se pose 
 		avant, pendant, et après l'arrivé d'un bébé. Aussi, j'espère que d'autres 
 		jeunes (ou futurs jeunes) parents pourront trouver sur ce site des réponses à quelques unes de ces interrogations. 
-	    <br/><br/><br/>
+	    <br/><br/>
+		<img src="baby.jpg" width="100" height="80" alt="photo bébé">
+		<br/>
 	  </article>
 	  <footer>
-	  	  <p>Copyright 2018 <a href= "user.php">Achraf OUBRAHIM<a> - Toute reproduction interdite - <a href = "mentions.php">Mentions légales<a></p>
+	  	  <p>Copyright 2018 <a href= "user.php">BebeToutBeau<a> - Toute reproduction interdite - <a href = "mentions.php">Mentions légales<a></p>
 	  </footer>
    </body>
