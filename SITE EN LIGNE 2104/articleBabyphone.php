@@ -1,6 +1,37 @@
-<?php 
-		include('header.php')
-?>
+<!DOCTYPE html>
+<html lang=="fr-FR">
+  <head>
+	  <title> Bébé Tout Beau </title>
+	  <meta charset="utf-8">
+	  <meta name="description" content="Notre expérience avec les baby-phones, et une revue de celui que l'on a utilisé en particulier.">
+	  <meta name="google-site-verification" content="SNfhmUjSvb1U1WjyVJ1lJs5pI3Rzcltek5yozcVArmo" />
+	  <img src="baby.jpg" width="60" height="60" alt="photo bébé"> 
+	  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	  <header>
+		<h1> <img src="baby.jpg" width="50" height="45" alt="photo bébé"> Bébé Tout Beau </h1>
+	  </header>
+	  <nav>
+		<div class="table">
+			<ul>
+				<li>
+					<a href="index.php">Accueil</a>
+				</li>
+				<li>
+					<a href="experiences.php">Expériences de Maman et Papa</a>
+					
+				</li>
+				<li>
+					<a href="tests.php">Tests de produits de puériculture</a>
+					
+				</li>
+				<li>
+					<a href="contact.php">Contact</a>
+				</li>
+			</ul>
+		</div>
+	  </nav>
 	  <article>
 		<h1> Baby-phone </h1>
 		<p>

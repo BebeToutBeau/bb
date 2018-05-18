@@ -1,8 +1,4 @@
- 
-	  <footer>
-	  	  <p>Copyright 2018 
-		  
-		  <?php
+<?php
 
 
 $serveur='localhost'; 
@@ -20,7 +16,4 @@ $req = $conn->query('SELECT * FROM user WHERE id = 2');
 echo $donnees['login'].':'.$donnees['nom'].'<br/>';
 
 ?>
-		  
-		  - Toute reproduction interdite - <a href = "mentions.php">Mentions légales<a></p>
-	  </footer>
-   </body>
+

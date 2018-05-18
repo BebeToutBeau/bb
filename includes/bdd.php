@@ -1,8 +1,11 @@
 <?php
 
-$conn=mysqli_connect("localhost", "root", "", "bddbebetoutbeau");
-if(!$conn){
-	die("Echec de connexion".mysqli_connect_error());
-}
+
+$serveur='localhost'; 
+$loginserveur='root';
+$mdpserveur=''; 
+
+$conn = new PDO('mysql:host=$serveur;dbname=user','root', '');
 
 ?>
+

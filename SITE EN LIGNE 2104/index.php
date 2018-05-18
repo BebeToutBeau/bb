@@ -3,7 +3,10 @@
   <head>
 	  <title> Bébé Tout Beau </title>
 	  <meta charset="utf-8">
-	  <meta name="description" content="Le site des Jeunes Parents">
+	  <meta name="description" content="Le but de ce site est d'aider les jeunes parents à accueillir leurs 
+		nouveaux nés, au travers de récits d'expériences propres, de conseils 
+		et d'avis/tests de produits de puériculture, le tout sur un ton léger 
+		et décalé.">
 	  <meta name="google-site-verification" content="SNfhmUjSvb1U1WjyVJ1lJs5pI3Rzcltek5yozcVArmo" />
 	  <img src="baby.jpg" width="60" height="60" alt="photo bébé"> 
 	  <link rel="stylesheet" href="style.css">
