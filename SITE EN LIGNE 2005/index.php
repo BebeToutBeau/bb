@@ -3,12 +3,16 @@
   <head>
 	  <title> B√©b√© Tout Beau </title>
 	  <meta charset="utf-8">
-	  <meta name="description" content="Le site des Jeunes Parents">
+	  <meta name="description" content="Le but de ce site est d'aider les jeunes parents ‡ accueillir leurs 
+		nouveaux nÈs, au travers de rÈcits d'expÈriences propres, de conseils 
+		et d'avis/tests de produits de puÈriculture, le tout sur un ton lÈger 
+		et dÈcalÈ.">
+	  <meta name="google-site-verification" content="SNfhmUjSvb1U1WjyVJ1lJs5pI3Rzcltek5yozcVArmo" />
 	  <link rel="stylesheet" href="style.css">
   </head>
   <body>
 	  <header>
-		<h1> B√©b√© Tout Beau </h1>
+		<h1> <img src="baby.jpg" width="50" height="45" alt="photo bÈbÈ"> B√©b√© Tout Beau </h1>
 	  </header>
 	  <nav>
 		<div class="table">
@@ -40,9 +44,11 @@
 		et j'ai moi m√™me √©t√© confront√© aux nombreuses questions que l'on se pose 
 		avant, pendant, et apr√®s l'arriv√© d'un b√©b√©. Aussi, j'esp√®re que d'autres 
 		jeunes (ou futurs jeunes) parents pourront trouver sur ce site des r√©ponses √† quelques unes de ces interrogations. 
-	    <br/><br/><br/>
+	    <br/><br/>
+                <img src="baby.jpg" width="100" height="80" alt="photo bÈbÈ"> 
+          <br/>
 	  </article>
 	  <footer>
-	  	  <p>Copyright 2018 <a href= "user.PHP">Achraf OUBRAHIM<a> - Toute reproduction interdite - <a href = "mentions.php">Mentions l√©gales<a></p>
+	  	  <p>Copyright 2018 <a href= "user.php">BebeToutBeau<a> - Toute reproduction interdite - <a href = "mentions.php">Mentions l√©gales<a></p>
 	  </footer>
    </body>
